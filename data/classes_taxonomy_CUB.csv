@@ -1,0 +1,200 @@
+1 1 Black_footed_Albatross "Phoebastria nigripes"
+2 2 Laysan_Albatross "Phoebastria immutabilis"
+3 3 Sooty_Albatross "Phoebetria fusca"
+4 4 Groove_billed_Ani "Crotophaga sulcirostris"
+5 5 Crested_Auklet "Aethia cristatella"
+6 6 Least_Auklet "Aethia pusilla"
+7 7 Parakeet_Auklet "Aethia psittacula"
+8 8 Rhinoceros_Auklet "Cerorhinca monocerata"
+9 9 Brewer_Blackbird "Euphagus cyanocephalus"
+10 10 Red_winged_Blackbird "Agelaius phoeniceus"
+11 11 Rusty_Blackbird "Euphagus carolinus"
+12 12 Yellow_headed_Blackbird "Xanthocephalus xanthocephalus"
+13 13 Bobolink "Dolichonyx oryzivorus"
+14 14 Indigo_Bunting "Passerina cyanea"
+15 15 Lazuli_Bunting "Passerina amoena"
+16 16 Painted_Bunting "Passerina ciris"
+17 17 Cardinal 
+18 18 Spotted_Catbird "Ailuroedus maculosus"
+19 19 Gray_Catbird "Dumetella carolinensis"
+20 20 Yellow_breasted_Chat "Icteria virens"
+21 21 Eastern_Towhee "Pipilo erythrophthalmus"
+22 22 Chuck_will_Widow "Antrostomus carolinensis"
+23 23 Brandt_Cormorant "Phalacrocorax penicillatus"
+24 24 Red_faced_Cormorant "Phalacrocorax urile"
+25 25 Pelagic_Cormorant "Phalacrocorax pelagicus"
+26 26 Bronzed_Cowbird "Molothrus aeneus"
+27 27 Shiny_Cowbird "Molothrus bonariensis"
+28 28 Brown_Creeper "Certhia americana"
+29 29 American_Crow "Corvus brachyrhynchos"
+30 30 Fish_Crow "Corvus ossifragus"
+31 31 Black_billed_Cuckoo "Coccyzus erythropthalmus"
+32 32 Mangrove_Cuckoo "Coccyzus minor"
+33 33 Yellow_billed_Cuckoo "Coccyzus americanus"
+34 34 Gray_crowned_Rosy_Finch "Leucosticte tephrocotis"
+35 35 Purple_Finch "Haemorhous purpureus"
+36 36 Northern_Flicker "Colaptes auratus"
+37 37 Acadian_Flycatcher "Empidonax virescens"
+38 38 Great_Crested_Flycatcher "Myiarchus crinitus"
+39 39 Least_Flycatcher "Empidonax minimus"
+40 40 Olive_sided_Flycatcher "Contopus cooperi"
+41 41 Scissor_tailed_Flycatcher "Tyrannus forficatus"
+42 42 Vermilion_Flycatcher "Pyrocephalus obscurus"
+43 43 Yellow_bellied_Flycatcher "Empidonax flaviventris"
+44 44 Frigatebird 
+45 45 Northern_Fulmar "Fulmarus glacialis"
+46 46 Gadwall "Mareca strepera"
+47 47 American_Goldfinch "Spinus tristis"
+48 48 European_Goldfinch "Carduelis carduelis"
+49 49 Boat_tailed_Grackle "Quiscalus major"
+50 50 Eared_Grebe "Podiceps nigricollis"
+51 51 Horned_Grebe "Podiceps auritus"
+52 52 Pied_billed_Grebe "Podilymbus podiceps"
+53 53 Western_Grebe "Aechmophorus occidentalis"
+54 54 Blue_Grosbeak 
+55 55 Evening_Grosbeak 
+56 56 Pine_Grosbeak 
+57 57 Rose_breasted_Grosbeak 
+58 58 Pigeon_Guillemot 
+59 59 California_Gull 
+60 60 Glaucous_winged_Gull 
+61 61 Heermann_Gull 
+62 62 Herring_Gull 
+63 63 Ivory_Gull 
+64 64 Ring_billed_Gull 
+65 65 Slaty_backed_Gull 
+66 66 Western_Gull 
+67 67 Anna_Hummingbird 
+68 68 Ruby_throated_Hummingbird 
+69 69 Rufous_Hummingbird 
+70 70 Green_Violetear 
+71 71 Long_tailed_Jaeger 
+72 72 Pomarine_Jaeger 
+73 73 Blue_Jay 
+74 74 Florida_Jay 
+75 75 Green_Jay 
+76 76 Dark_eyed_Junco 
+77 77 Tropical_Kingbird 
+78 78 Gray_Kingbird 
+79 79 Belted_Kingfisher 
+80 80 Green_Kingfisher 
+81 81 Pied_Kingfisher 
+82 82 Ringed_Kingfisher 
+83 83 White_breasted_Kingfisher 
+84 84 Red_legged_Kittiwake 
+85 85 Horned_Lark 
+86 86 Pacific_Loon 
+87 87 Mallard 
+88 88 Western_Meadowlark 
+89 89 Hooded_Merganser 
+90 90 Red_breasted_Merganser 
+91 91 Mockingbird 
+92 92 Nighthawk 
+93 93 Clark_Nutcracker 
+94 94 White_breasted_Nuthatch 
+95 95 Baltimore_Oriole 
+96 96 Hooded_Oriole 
+97 97 Orchard_Oriole 
+98 98 Scott_Oriole 
+99 99 Ovenbird 
+100 100 Brown_Pelican 
+101 101 White_Pelican 
+102 102 Western_Wood_Pewee 
+103 103 Sayornis 
+104 104 American_Pipit 
+105 105 Whip_poor_Will 
+106 106 Horned_Puffin 
+107 107 Common_Raven 
+108 108 White_necked_Raven 
+109 109 American_Redstart 
+110 110 Geococcyx 
+111 111 Loggerhead_Shrike 
+112 112 Great_Grey_Shrike 
+113 113 Baird_Sparrow 
+114 114 Black_throated_Sparrow 
+115 115 Brewer_Sparrow 
+116 116 Chipping_Sparrow 
+117 117 Clay_colored_Sparrow 
+118 118 House_Sparrow 
+119 119 Field_Sparrow 
+120 120 Fox_Sparrow 
+121 121 Grasshopper_Sparrow 
+122 122 Harris_Sparrow 
+123 123 Henslow_Sparrow 
+124 124 Le_Conte_Sparrow 
+125 125 Lincoln_Sparrow 
+126 126 Nelson_Sharp_tailed_Sparrow 
+127 127 Savannah_Sparrow 
+128 128 Seaside_Sparrow 
+129 129 Song_Sparrow 
+130 130 Tree_Sparrow 
+131 131 Vesper_Sparrow 
+132 132 White_crowned_Sparrow 
+133 133 White_throated_Sparrow 
+134 134 Cape_Glossy_Starling 
+135 135 Bank_Swallow 
+136 136 Barn_Swallow 
+137 137 Cliff_Swallow 
+138 138 Tree_Swallow 
+139 139 Scarlet_Tanager 
+140 140 Summer_Tanager 
+141 141 Artic_Tern 
+142 142 Black_Tern 
+143 143 Caspian_Tern 
+144 144 Common_Tern 
+145 145 Elegant_Tern 
+146 146 Forsters_Tern 
+147 147 Least_Tern 
+148 148 Green_tailed_Towhee 
+149 149 Brown_Thrasher 
+150 150 Sage_Thrasher 
+151 151 Black_capped_Vireo 
+152 152 Blue_headed_Vireo 
+153 153 Philadelphia_Vireo 
+154 154 Red_eyed_Vireo 
+155 155 Warbling_Vireo 
+156 156 White_eyed_Vireo 
+157 157 Yellow_throated_Vireo 
+158 158 Bay_breasted_Warbler 
+159 159 Black_and_white_Warbler 
+160 160 Black_throated_Blue_Warbler 
+161 161 Blue_winged_Warbler 
+162 162 Canada_Warbler 
+163 163 Cape_May_Warbler 
+164 164 Cerulean_Warbler 
+165 165 Chestnut_sided_Warbler 
+166 166 Golden_winged_Warbler 
+167 167 Hooded_Warbler 
+168 168 Kentucky_Warbler 
+169 169 Magnolia_Warbler 
+170 170 Mourning_Warbler 
+171 171 Myrtle_Warbler 
+172 172 Nashville_Warbler 
+173 173 Orange_crowned_Warbler 
+174 174 Palm_Warbler 
+175 175 Pine_Warbler 
+176 176 Prairie_Warbler 
+177 177 Prothonotary_Warbler 
+178 178 Swainson_Warbler 
+179 179 Tennessee_Warbler 
+180 180 Wilson_Warbler 
+181 181 Worm_eating_Warbler 
+182 182 Yellow_Warbler 
+183 183 Northern_Waterthrush 
+184 184 Louisiana_Waterthrush 
+185 185 Bohemian_Waxwing 
+186 186 Cedar_Waxwing 
+187 187 American_Three_toed_Woodpecker 
+188 188 Pileated_Woodpecker 
+189 189 Red_bellied_Woodpecker 
+190 190 Red_cockaded_Woodpecker 
+191 191 Red_headed_Woodpecker 
+192 192 Downy_Woodpecker 
+193 193 Bewick_Wren 
+194 194 Cactus_Wren 
+195 195 Carolina_Wren 
+196 196 House_Wren 
+197 197 Marsh_Wren 
+198 198 Rock_Wren 
+199 199 Winter_Wren 
+200 200 Common_Yellowthroat 
