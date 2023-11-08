@@ -1,0 +1,6 @@
+python3.8
+pytorch==2.0.1
+opencv
+scikit-learn
+h5py
+tqdm
